@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Body preset">
+<g id="Vector">
+<path d="M50 38C50 26 26 2 26 2C26 2 2 26 2 38C2 48 12 54 26 54C40 54 50 48 50 38Z" fill="#360584"/>
+<mask id="stroke0_0_342" fill="white">
+<path d="M50 38C50 26 26 2 26 2C26 2 2 26 2 38C2 48 12 54 26 54C40 54 50 48 50 38Z"/>
+</mask>
+<path d="M26 2C26 2 50 26 50 38C50 48 40 54 26 54C12 54 2 48 2 38C2 26 26 2 26 2Z" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke="#AC80FA" mask="url(#stroke0_0_342)"/>
+</g>
+</g>
+</svg>
